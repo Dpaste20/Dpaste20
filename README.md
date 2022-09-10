@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ryuzaki20
+- 👋 Hi, I’m @Dhruvpaste
+
 - 👀 I’m interested in Blockchain, Fintech and AI
 - 🌱 I’m currently learning Javascript(Intermidiate) and Pyhton(Advance)
 - 💞️ I’m looking to collaborate on Anything 
