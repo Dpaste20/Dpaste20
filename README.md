@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on Anything 
 - 📫 How to reach me 
     Twitter https://twitter.com/DhruvPaste
+    
     LinkdIn https://www.linkedin.com/in/dhruv-paste-2541a9191
+    
     Instagram instagram.com/dhruvpaste_20/
     
 
