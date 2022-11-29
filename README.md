@@ -8,7 +8,7 @@
     
     LinkdIn https://www.linkedin.com/in/dhruv-paste-2541a9191
     
-    Instagram instagram.com/dhruvpaste_20/
+    Instagram https://www.instagram.com/dhruvpaste_20/
     
 
 <!---
