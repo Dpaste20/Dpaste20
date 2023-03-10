@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Dhruvpaste
-
-- 👀 I’m interested in Blockchain, Fintech and AI
+- 👋 Hi, I’m Dhruvpaste
 - 🌱 I’m currently learning React and Python(Advance)
 - 💞️ I’m looking to collaborate on Anything 
 - 📫 How to reach me 
